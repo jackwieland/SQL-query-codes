@@ -7,10 +7,11 @@ Terms and Conditions that is mandatory to be adheared to:
 4. The use of my querying scripts requires co-authorship for publications.
 5. I will not be providing the database coding script.
 6. Individual dataset table query folder will not be provided in the mean time.
+
 The following folders:
 
-Cohort - Individual datatsets and the table names have been anonymised.
-Full Database - VIEW name has been used but this is anonymised.
+1. Cohort - Individual datatsets and the table names have been anonymised.
+2. Full Database - VIEW name has been used but this is anonymised.
 
 These scripts have been used in a Python tool to automate database querying and this is currently being amended.
 
