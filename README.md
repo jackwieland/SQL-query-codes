@@ -6,7 +6,6 @@ Terms and Conditions that is mandatory to be adheared to:
 3. The data files I have used to generate my database will not be made public.
 4. The use of my scripts requires co-authorship for publications.
 5. I will not be providing the database coding script.
-6. Individual dataset table query folder will not be provided in the mean time.
 
 The following folders:
 
