@@ -12,7 +12,3 @@ The following folders:
 
 1. Cohort - Individual datatsets and the table names have been anonymised.
 2. Full Database - VIEW name has been used but this is anonymised.
-
-These scripts have been used in a Python tool to automate database querying and this is currently being amended.
-
-File prep in progress.
