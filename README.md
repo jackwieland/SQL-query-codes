@@ -11,3 +11,4 @@ The following folders:
 
 1. Cohort - Individual datatsets and the table names have been anonymised.
 2. Full Database - VIEW name has been used but this is anonymised.
+3. Frequencies.sql - Used to get the Start_position frequcencies per chromosome for; CNVs, SVs, InDels, and SNPs.
