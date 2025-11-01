@@ -10,3 +10,4 @@ The following folders:
 2. Full Database - VIEW name has been used but this is anonymised.
 3. Frequencies.sql - Used to get the Start_position frequcencies per chromosome for; CNVs, SVs, InDels, and SNPs.
 4. The_Human_Genetic_Infertility_Database.sql: Database script to generate The Human Genetic Infertility Database, the genetic files are not available for accessing.
+5. Bed file creation in SQL.sql: Template for creating a bed file in SQL, using the CONCAT_WS function.
